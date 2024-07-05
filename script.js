@@ -1,4 +1,4 @@
-function Display() {
+function Func() {
   return (
     <div class="main">
       <nav></nav>
@@ -28,4 +28,4 @@ function Display() {
   );
 }
 
-ReactDOM.render(<Display />, document.getElementById("root"));
+ReactDOM.render(<Func />, document.getElementById("root"));
